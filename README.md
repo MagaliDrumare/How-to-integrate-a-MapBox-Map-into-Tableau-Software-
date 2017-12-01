@@ -1,7 +1,7 @@
 # What is MapBox ? 
 * Mapbox is the location data platform for mobile and web applications : https://www.mapbox.com/help/how-mapbox-works/
 
-# How to integrate MapBox and Tableau ? 
+# How to integrate MapBox and Tableau ? (see MapBox&Tableau.tbwx)
 * https://www.mapbox.com/help/tableau-integration/
 
 
